@@ -54,7 +54,7 @@ const Home = () => {
       <Contact
         title={ContactContent.title}
         content={ContactContent.text}
-        id="contact us - (415) 683-2482"
+        id="contact us"
       />
     </Container>
   );
