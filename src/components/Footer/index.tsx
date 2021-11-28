@@ -94,12 +94,7 @@ const Footer = ({ t }: any) => {
               </Large>
               <Large left="true" to="/">
                 {t("Blog")}
-              </Large>
-              <Large left="true" to="/">
-                {t("Press")}
-              </Large>
-              <Large left="true" to="/">
-                {t("Careers & Culture")}
+      
               </Large>
             </Col>
             <Col lg={6} md={6} sm={12} xs={12}>
@@ -145,22 +140,22 @@ const Footer = ({ t }: any) => {
             </NavLink>
             <FooterContainer>
               <SocialLink
-                href="https://github.com/Adrinlol/create-react-app-adrinlol"
+                href="https://github.com"
                 src="github.svg"
               />
               <SocialLink
-                href="https://twitter.com/Adrinlolx"
+                href="https://twitter.com/"
                 src="twitter.svg"
               />
               <SocialLink
-                href="https://www.linkedin.com/in/lasha-kakabadze/"
+                href="https://www.linkedin.com"
                 src="linkedin.svg"
               />
               <SocialLink
-                href="https://medium.com/@lashakakabadze/"
+                href="https://medium.com"
                 src="medium.svg"
               />
-              <a href="https://www.buymeacoffee.com/adrinlol">
+              <a href="https://www.buymeacoffee.com">
                 <img
                   src="https://img.buymeacoffee.com/button-api/?text=Donate us &emoji=🦁&slug=adrinlol&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"
                   alt="Donate Us"
