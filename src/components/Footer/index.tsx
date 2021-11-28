@@ -54,9 +54,9 @@ const Footer = ({ t }: any) => {
               <Language>{t("Contact")}</Language>
               <Large to="/">{t("Tell us everything")}</Large>
               <Para>
-                {t(`Do you have any question? Feel free to reach out.`)}
+                {t(`Do you have any question? Feel free to reach out (+1 )(415) 466-1404.`)}
               </Para>
-              <a href="mailto:theofficialcontacts57@gmail.com">
+              <a href="mailto:theofficialcontacts7@gmail.com">
                 <Chat>{t(`Let's Chat`)}</Chat>
               </a>
             </Col>

@@ -51,7 +51,7 @@ const Header = ({ t }: any) => {
           onClick={() => scrollTo("contact")}
         >
           <Span>
-            <Button>{t("------Contact us ------- (+1) 415-683-2482 ")}</Button>
+            <Button>{t("------Contact us ------- (+1) (415)466-1404 ")}</Button>
           </Span>
         </CustomNavLinkSmall>
       </>
