@@ -56,7 +56,7 @@ const Footer = ({ t }: any) => {
               <Para>
                 {t(`Do you have any question? Feel free to reach out.`)}
               </Para>
-              <a href="mailto:l.qqbadze@gmail.com">
+              <a href="mailto:theofficialcontacts57@gmail.com">
                 <Chat>{t(`Let's Chat`)}</Chat>
               </a>
             </Col>
@@ -83,9 +83,9 @@ const Footer = ({ t }: any) => {
             <Col lg={10} md={10} sm={12} xs={12}>
               <Empty />
               <Language>{t("Address")}</Language>
-              <Para>Rancho Santa Margarita</Para>
-              <Para>2131 Elk Street</Para>
-              <Para>California</Para>
+              <Para>Plaza-E-Vardhman</Para>
+              <Para>Vikaspuri Street</Para>
+              <Para>ND-18</Para>
             </Col>
             <Col lg={8} md={8} sm={12} xs={12}>
               <Title>{t("Company")}</Title>
@@ -162,8 +162,8 @@ const Footer = ({ t }: any) => {
               />
               <a href="https://www.buymeacoffee.com/adrinlol">
                 <img
-                  src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=adrinlol&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"
-                  alt="Buy me a pizza"
+                  src="https://img.buymeacoffee.com/button-api/?text=Donate us &emoji=🦁&slug=adrinlol&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"
+                  alt="Donate Us"
                 />
               </a>
             </FooterContainer>
